@@ -1,10 +1,7 @@
 # ☁️ Den Mathew Joshy | Virtualization & Cloud Engineer
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0e75b6&height=200&section=header&text=Infrastructure%20Architect&fontSize=50&animation=fadeIn&fontAlignY=40" />
-</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=denjoshy&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="trophies" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0e75b6&height=200&section=header&text=Infrastructure%20Architect&fontSize=50&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">
@@ -36,19 +33,18 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 Infrastructure Performance Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=denjoshy&show_icons=true&theme=tokyonight&hide_border=true&title_color=0e75b6&icon_color=0e75b6" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denjoshy&layout=compact&theme=tokyonight&hide_border=true&title_color=0e75b6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=denjoshy&show_icons=true&theme=visual_studio_code&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denjoshy&layout=compact&theme=visual_studio_code&hide_border=true" width="300" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=denjoshy&theme=tokyonight&color=0e75b6&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denjoshy&theme=react-dark&bg_color=0d1117&color=0e75b6&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -64,7 +60,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/denmathewjoshy" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:den.mjoshy@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img align="right" src="https://komarev.com/ghpvc/?username=denjoshy&label=TRAFFIC_LOGS&color=0e75b6&style=flat-square" alt="denjoshy" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=denjoshy&label=TRAFFIC_LOGS&color=0e75b6&style=flat-square" />
 </p>
 
 <p align="center"><i>"Building fault-tolerant systems in a world of variables."</i></p>
