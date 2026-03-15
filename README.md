@@ -6,13 +6,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Employer-Microland%20Limited-0e75b6?style=for-the-badge&logo=icloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Uptime-98%25%20System%20Availability-success?style=for-the-badge&logo=statuspage&logoColor=white" />
-  <img src="https://img.shields.io/badge/Certification-AZ--104%20In%20Progress-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certification-AZ--104%20In%20Progress-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
 ---
 
 ### 📡 System Diagnostic [Connected]
-**Cloud Infrastructure Engineer** at **Microland Limited**, specializing in hybrid cloud environments (Nutanix & Azure). I build automated, self-healing infrastructure.
+**Cloud Infrastructure Engineer** at **Microland Limited**, specializing in hybrid cloud environments (Nutanix & Azure). I focus on resource optimization and building self-healing infrastructure.
 
 - 🚀 **Scale**: Orchestrating **400+ VMs** across Nutanix Prism and Microsoft Azure.
 - 🤖 **Automation**: Achieving **100% compliance** via automated patching and **GitHub Actions**.
@@ -23,7 +23,7 @@
 
 ### 🛠️ Cloud Ops & Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,aws,linux,docker,terraform,githubactions,py,bash,mysql,mongodb,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=azure,linux,docker,terraform,githubactions,py,bash,mysql,mongodb,cpp,java" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 
 ### 🏆 Enterprise Deployments & Recognition
 - **AGRIA**: 🎖️ **State-Level Award** for Disaster Management system design.
-- **TECHNOTICA**: 🥇 **1st Prize** - State Level Software Development Competition.
+- **TECHNOTICA**: 🥇 **1st Prize** - State Level Software Development Competition (Amal Jyothi College).
 - **PLASTICO & RE-LIFE**: 🏗️ Engineered high-grade (A+) architectures for Waste & Blood Bank Management.
 
 ---
