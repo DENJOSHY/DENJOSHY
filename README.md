@@ -1,29 +1,28 @@
-# ☁️ Den Mathew Joshy | Virtualization & Cloud Engineer 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Infrastructure%20Architect&fontSize=50&animation=fadeIn&fontAlignY=35" />
-</p>
+# ☁️ Den Mathew Joshy
+## `Virtualization & Cloud Infrastructure Engineer`
+**Bangalore, India** | **400+ VMs Managed** | **98% Uptime**
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Employer-Microland%20Limited-0e75b6?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Uptime-98%25%20System%20Availability-success?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Highly%20Available-success?style=for-the-badge&logo=statuspage&logoColor=white" />
   <img src="https://img.shields.io/badge/Certification-AZ--104%20In%20Progress-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
 ---
 
 ### 📡 System Diagnostic [Connected]
-**Cloud Infrastructure Engineer** at **Microland Limited**, specializing in hybrid cloud environments (Nutanix & Azure). I focus on resource optimization and building self-healing infrastructure.
+Cloud Infrastructure Engineer at **Microland Limited**, specializing in hybrid cloud environments (**Nutanix & Azure**). Focused on automated server lifecycle management and high-availability architecture.
 
 - 🚀 **Scale**: Orchestrating **400+ VMs** across Nutanix Prism and Microsoft Azure.
 - 🤖 **Automation**: Achieving **100% compliance** via automated patching and **GitHub Actions**.
 - 🛠️ **DevOps**: Driving efficiency with **Terraform (IaC)** and **Docker** containerization.
-- 🎓 **Research**: Pursuing MCA in **AI & Machine Learning** (LPU) | Expected 2026.
+- 🎓 **Education**: MCA in **AI & Machine Learning** (LPU) | Expected 2026.
 
 ---
 
 ### 🛠️ Cloud Ops & Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,linux,docker,terraform,githubactions,py,bash,mysql,mongodb,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=azure,linux,docker,terraform,githubactions,py,bash,mysql,mongodb,cpp,java&theme=dark" />
 </p>
 
 ---
@@ -34,8 +33,8 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=denjoshy&show_icons=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denjoshy&layout=compact&theme=transparent&title_color=0e75b6&text_color=ffffff&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=denjoshy&show_icons=true&theme=dark&title_color=0e75b6&icon_color=0e75b6&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denjoshy&layout=compact&theme=dark&title_color=0e75b6&hide_border=true" />
 </p>
 
 ---
