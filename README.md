@@ -1,6 +1,6 @@
 # ☁️ Den Mathew Joshy
 ## `Cloud and Datacenter Engineer`
-**Bangalore, India** | **400+ VMs Managed** | **98% Uptime**
+**Bangalore, India** | **400+ VMs Managed** | **99.9% Uptime**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Employer-Microland%20Limited-0e75b6?style=for-the-badge&logo=icloud&logoColor=white" />
